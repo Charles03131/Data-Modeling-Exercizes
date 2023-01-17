@@ -92,7 +92,7 @@ INSERT INTO DEPARTURE (id,date,airport_id, terminal_id)
 VALUES (1,1/20/23,1,1);
 
 INSERT INTO ARRIVAL (id,date,airport_id, terminal_id)
-VALUES(1,1/20/23,1,2):
+VALUES(1,1/20/23,1,2);
 
 INSERT INTO FLIGHT (id,name,airline_id,departure_id,arrival_id,plane_id)
 VALUES (1,'2345',1,1);
